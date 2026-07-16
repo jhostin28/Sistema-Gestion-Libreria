@@ -1,0 +1,15 @@
+test_01_login_correcto (test_sistema.TestSistemaLibreria.test_01_login_correcto) ... ok
+test_02_login_incorrecto (test_sistema.TestSistemaLibreria.test_02_login_incorrecto) ... ok
+test_03_registro_busqueda_y_actualizacion_libro (test_sistema.TestSistemaLibreria.test_03_registro_busqueda_y_actualizacion_libro) ... ok
+test_04_rechaza_isbn_duplicado (test_sistema.TestSistemaLibreria.test_04_rechaza_isbn_duplicado) ... ok
+test_05_rechaza_stock_negativo (test_sistema.TestSistemaLibreria.test_05_rechaza_stock_negativo) ... ok
+test_06_registro_actualizacion_y_eliminacion_cliente (test_sistema.TestSistemaLibreria.test_06_registro_actualizacion_y_eliminacion_cliente) ... ok
+test_07_venta_descuenta_stock_y_calcula_total (test_sistema.TestSistemaLibreria.test_07_venta_descuenta_stock_y_calcula_total) ... ok
+test_08_venta_sin_stock_no_se_registra (test_sistema.TestSistemaLibreria.test_08_venta_sin_stock_no_se_registra) ... ok
+test_09_alquiler_y_devolucion_restauran_stock (test_sistema.TestSistemaLibreria.test_09_alquiler_y_devolucion_restauran_stock) ... ok
+test_10_eliminacion_logica_de_libro (test_sistema.TestSistemaLibreria.test_10_eliminacion_logica_de_libro) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.095s
+
+OK
